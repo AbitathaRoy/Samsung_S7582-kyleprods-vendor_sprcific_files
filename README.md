@@ -1,3 +1,2 @@
-# Samsung_S7582-kyleprods-vendor_specific_files
-
-device vendor specific files for Samsung Galaxy S Duos 2
+# kyleprods
+samsung galaxy s duos 2 gt-s7582
